@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Areskyb/Machine_learning_brain/settings/static/css/main.6dd314bd.chunk.css",
+    "main.js": "/Areskyb/Machine_learning_brain/settings/static/js/main.81043564.chunk.js",
+    "main.js.map": "/Areskyb/Machine_learning_brain/settings/static/js/main.81043564.chunk.js.map",
+    "runtime-main.js": "/Areskyb/Machine_learning_brain/settings/static/js/runtime-main.badffa40.js",
+    "runtime-main.js.map": "/Areskyb/Machine_learning_brain/settings/static/js/runtime-main.badffa40.js.map",
+    "static/js/2.1e414a70.chunk.js": "/Areskyb/Machine_learning_brain/settings/static/js/2.1e414a70.chunk.js",
+    "static/js/2.1e414a70.chunk.js.map": "/Areskyb/Machine_learning_brain/settings/static/js/2.1e414a70.chunk.js.map",
+    "index.html": "/Areskyb/Machine_learning_brain/settings/index.html",
+    "precache-manifest.be3ca47fd49eefc425fa93703267ba2c.js": "/Areskyb/Machine_learning_brain/settings/precache-manifest.be3ca47fd49eefc425fa93703267ba2c.js",
+    "service-worker.js": "/Areskyb/Machine_learning_brain/settings/service-worker.js",
+    "static/css/main.6dd314bd.chunk.css.map": "/Areskyb/Machine_learning_brain/settings/static/css/main.6dd314bd.chunk.css.map",
+    "static/js/2.1e414a70.chunk.js.LICENSE.txt": "/Areskyb/Machine_learning_brain/settings/static/js/2.1e414a70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.badffa40.js",
+    "static/js/2.1e414a70.chunk.js",
+    "static/css/main.6dd314bd.chunk.css",
+    "static/js/main.81043564.chunk.js"
+  ]
+}
